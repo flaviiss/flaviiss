@@ -8,4 +8,6 @@ Sou estudante do EM e estou no primeiro ano
 
 Também já desenvolvi vários programas 
 
+Caso queiram entra em contato: @ei_flaviskjkw
+
 https://cursos.alura.com.br/course/projetos-artisticos-javascript
